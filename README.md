@@ -4,6 +4,8 @@ This is a SMS And Call Bomber For Linux And Termux which has maximum limit FOR S
 
 # For Linux and Termux
 
+# sudo apt install python3
+
 # sudo apt install git
 
 # sudo apt install toilet
@@ -11,6 +13,8 @@ This is a SMS And Call Bomber For Linux And Termux which has maximum limit FOR S
 # sudo apt install figlet
 
 # cd ZBomb
+# pip install -r requirement.txt 
 # ls
-# bash Tbomb.sh
-
+# bash ZBomb.sh
+# or
+# ./ZBomb
