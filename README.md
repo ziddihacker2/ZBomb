@@ -20,6 +20,8 @@ git clone https://github.com/ziddihacker2/ZBomb.git
  
  pip install -r requirement.txt 
  
+ chmdo 777 ZBomb.sh
+ 
  bash ZBomb.sh
  
  or
