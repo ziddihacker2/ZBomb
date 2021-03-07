@@ -40,7 +40,7 @@ exit 0
 elif [ $ch -eq 2 ];then
 clear
 echo -e "\e[1;32m"
-echo 'Call Bomb By SpeedX'> call.xxx
+echo 'Call Bomb By ZBomb'> call.xxx
 python3 bomber.py call
 rm *.xxx >/dev/null 2>&1
 exit 0
@@ -50,7 +50,7 @@ echo -e "\e[1;31m"
 figlet ZBomb
 echo -e "\e[1;34m Created By \e[1;32m"
 toilet -f mono12 -F border H4CK3R
-echo " "
+echo -e "\e[1;33m Good Bye Bye!! "
 exit 0
 else
 echo -e "\e[4;32m Invalid Input !!! \e[0m"
@@ -59,5 +59,3 @@ read a3
 clear
 fi
 done
-
-print("\t Good Bye Bye!!")
