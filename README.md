@@ -12,6 +12,8 @@ This is a SMS And Call Bomber For Linux And Termux which has maximum limit FOR S
 
  sudo apt install figlet
 
+git clone https://github.com/ziddihacker2/ZBomb.git
+
  cd ZBomb
  
  ls
