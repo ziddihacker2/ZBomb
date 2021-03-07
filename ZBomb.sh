@@ -59,3 +59,5 @@ read a3
 clear
 fi
 done
+
+print("\t Good Bye Bye!!")
