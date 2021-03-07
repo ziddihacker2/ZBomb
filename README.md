@@ -13,8 +13,13 @@ This is a SMS And Call Bomber For Linux And Termux which has maximum limit FOR S
  sudo apt install figlet
 
  cd ZBomb
+ 
  ls
+ 
  pip install -r requirement.txt 
+ 
  bash ZBomb.sh
+ 
  or
+ 
  ./ZBomb.sh
