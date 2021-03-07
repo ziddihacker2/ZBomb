@@ -17,4 +17,4 @@ This is a SMS And Call Bomber For Linux And Termux which has maximum limit FOR S
 # ls
 # bash ZBomb.sh
 # or
-# ./ZBomb
+# ./ZBomb.sh
