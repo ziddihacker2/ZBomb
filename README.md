@@ -29,5 +29,6 @@ git clone https://github.com/ziddihacker2/ZBomb.git
  ./ZBomb.sh
 
 # Windows run
+pip3 install -r requirement.txt
 
 python3 bomber.py
