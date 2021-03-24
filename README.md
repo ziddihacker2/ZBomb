@@ -27,3 +27,7 @@ git clone https://github.com/ziddihacker2/ZBomb.git
  or
  
  ./ZBomb.sh
+
+# Windows run
+
+python3 bomber.py
